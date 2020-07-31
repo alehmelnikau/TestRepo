@@ -3,6 +3,7 @@ using System.Diagnostics;
 using System.IO;
 555
 777
+    888
 namespace BinContent
 {
     class Program
